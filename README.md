@@ -2,7 +2,7 @@
 ## A way to learn how Artificial Neural Networks are implemented in C++, and Python as well as how hyperparameters work within ANNs and how to modify them.
 ### A Midterms output for CCS 238: Programming Language Subject.
 
-:information_source: ### Description Of The Problem
+### Description Of The Problem
 As a computer science student that majors in artificial intelligence. One of the most tackled topic 
 within our course is artificial neural networks. Artificial Neural Networks (ANNs) is an essential 
 sub-topic within our course as it serves as a foundation for many machine learning and AI tasks. 
